@@ -46,7 +46,7 @@ Obs: Lembre-se de rodar o projeto do backend
 
 ## Contato
 
-Se você tiver dúvidas, sugestões ou precisar de ajuda, não hesite em entrar em contato conosco em [geovanebarbosacc@hotmail.com](mailto:geovanebarbosacc@hotmail.com).
+Se você tiver dúvidas, sugestões ou precisar de ajuda, não hesite em entrar em contato [geovanebarbosacc@hotmail.com](mailto:geovanebarbosacc@hotmail.com).
 
 ## Capturas de Tela
 
